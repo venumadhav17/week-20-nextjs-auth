@@ -16,3 +16,4 @@ export function GET(req: NextRequest) {
 }
 
 /*app.get("/profile", userMiddleWare); // userMiddleWare would extract the cookie from the header */
+// Middleware
